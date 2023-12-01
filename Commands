@@ -1,1 +1,6 @@
-
+Mkdir - to create directory
+Pwd - present working directory
+cd - change directory
+# = sharp
+! = Bang
+#! = shebang
